@@ -1,4 +1,4 @@
-# Site acessivel - projeto alura 3 bimestre
+# Projeto Alura 3 Bimestre
 **SOBRE:**
 
 Esse é um projeto do Alura que visa criar um site com acessibilidade, utilizando ferramentas como:
