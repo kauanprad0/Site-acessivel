@@ -1,15 +1,15 @@
 # Site acessivel - projeto alura 3 bimestre
-**SOBRE**
+**SOBRE:**
 
 Esse é um projeto do Alura que visa criar um site com acessibilidade, utilizando ferramentas como:
 
-**RECURSO DE ACESSIBILIDADE**
+**RECURSO DE ACESSIBILIDADE:**
 - Atributos aria
 - alt
 - tab-index
 - menu de acessibilidade
 
-  **TECNOLOGIA UTILIZADAS**
+  **TECNOLOGIA UTILIZADAS:**
 
 - Bootstrap
 - ScrollRevealjs
